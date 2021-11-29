@@ -1,0 +1,4 @@
+cat /usr/share/dict/words | sed y/\w/[a-z] | grep -E "^(\w*a){3}\w*$"|grep -E "[^\w*\'s]$"| wc -l
+
+cat /usr/share/dict/words | tr "[:upper:]" "[:lower:]" | grep -E "^(\w*a){3}\w*$"|grep -E "[^\w*\'s]$"| wc -l
+

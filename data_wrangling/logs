@@ -1,0 +1,31 @@
+2021-11-02 07:04:38.887420+0000 0x0        Timesync    0x0                  0      0    === system boot: F8090378-B68B-4DBC-8078-EE844D2082C3
+2021-11-07 10:39:07.550384+0400 0x0        Timesync    0x0                  0      0    === system boot: 7E33EF28-32C2-4547-9BED-BDA3D3E52ACF
+2021-11-09 23:29:25.341967+0400 0x8f649    Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-10 01:17:32.392821+0400 0x8f4a5    Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-10 03:05:38.356835+0400 0x8fa11    Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-10 04:53:45.403250+0400 0x8fc13    Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-10 06:41:51.485734+0400 0x8d3      Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-10 06:44:06.433433+0400 0x9003f    Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-10 12:14:45.007655+0400 0x903a4    Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-11 03:29:47.875136+0400 0x1086e0   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-11 05:17:53.915996+0400 0x108b6f   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-11 07:05:59.986589+0400 0x6d       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-11 08:05:46.985858+0400 0x108f9a   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-12 01:17:57.183631+0400 0x12553a   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-12 03:06:04.259160+0400 0x125e73   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-12 04:54:11.342441+0400 0x126020   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-12 06:42:18.256497+0400 0x12600a   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-12 08:30:25.207785+0400 0x12631b   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-12 08:48:41.220855+0400 0x12647c   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-12 09:59:52.261703+0400 0x126623   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-13 02:45:44.468759+0400 0x74       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-13 04:06:03.480903+0400 0x74       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-13 09:21:46.949285+0400 0x129112   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-13 22:13:36.348042+0400 0x78e      Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-14 04:55:30.965087+0400 0x74       Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-14 06:43:36.930818+0400 0x14d007   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-14 08:31:43.881774+0400 0x14d756   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-14 09:24:00.089668+0400 0x14d007   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-15 00:10:33.061834+0400 0x15bd17   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-15 01:58:40.054254+0400 0x15c105   Default     0x0                  0      0    kernel: (AppleSMC) Previous shutdown cause: 5
+2021-11-15 03:46:47.130040+0400 0x15c223   Default     0x0  

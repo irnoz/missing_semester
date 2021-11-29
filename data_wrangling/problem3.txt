@@ -1,0 +1,1 @@
+log show | grep -E "=== system boot:|Previous shutdown cause: 5" > logs
